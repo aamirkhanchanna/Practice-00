@@ -1,0 +1,16 @@
+var myDream = "perform Hajj";
+console.log(myDream);
+var myName = "Aamir Khan";
+console.log(myName);
+var favouriteColor = "Black";
+console.log(favouriteColor);
+var beautifullPlace = "Makkah , Madina";
+console.log(beautifullPlace);
+var teamNumber = 1;
+console.log(teamNumber);
+var married = true;
+console.log(married);
+var mycellNumber = "+923005044416";
+console.log(mycellNumber);
+var pi = 5 + 1;
+console.log(pi);
